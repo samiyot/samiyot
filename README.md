@@ -1,5 +1,5 @@
-### yo! Welcome to my Profile :]
-I am an apprentice as an Application-Developer
+### yo! 
+My name is Sam and currently an apprentice as an Application-Developer
 
 
 <!--
