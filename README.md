@@ -1,4 +1,6 @@
-### yo!
+### yo! Welcome to my Profile :]
+I am an apprentice as an Application-Developer
+
 
 <!--
 **samiyot/samiyot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
