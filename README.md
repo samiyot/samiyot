@@ -1,5 +1,5 @@
 ### yo! 
-My name is Sam and am currently an apprentice as an Application-Developer
+My name is Sam and am currently an apprentice as an Application-Developer :D
 
 
 <!--
