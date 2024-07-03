@@ -1,7 +1,7 @@
 ## yo! 
 My name is Sam and am currently an apprentice as an Application-Developer :D
 
-##Here are some of my Interests :P
+## Here are some of my Interests :P
 - Coding (what a suprise)
 - Videogames
 - F1
