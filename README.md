@@ -9,7 +9,7 @@ My name is Sam and am currently an apprentice as an Application-Developer :D
 - Biking
 
 ## At last
-Someday I will get my hands on this Lightning Mcqeen mouse
+Someday I will get my hands on this Lightning Mcqueen mouse
 <!--
 **samiyot/samiyot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
