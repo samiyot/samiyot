@@ -1,7 +1,12 @@
-### yo! 
+## yo! 
 My name is Sam and am currently an apprentice as an Application-Developer :D
 
-
+### Here are some of my Interests :P
+- Coding (what a suprise)
+- Videogames
+- F1
+- E-Guitars/Music
+- Biking
 <!--
 **samiyot/samiyot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
