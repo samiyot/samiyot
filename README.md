@@ -5,7 +5,7 @@ My name is Sam and am currently an apprentice as an Application-Developer :D
 - Coding (what a suprise)
 - Videogames
 - F1
-- E-Guitars/Music
+- E-Guitar/Music
 - Biking
 
 ## At last
